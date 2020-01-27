@@ -1,0 +1,8 @@
+name: CoordsTP
+version: 0
+author: moderator_man
+main: me.moderator_man.ctp.CoordsTP
+commands:
+    ctp:
+        description: Teleport to coordinates
+        usage: /ctp x y z
